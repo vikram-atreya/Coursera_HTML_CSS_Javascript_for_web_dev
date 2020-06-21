@@ -54,6 +54,12 @@ div {
         background-color: blanchedalmond;
         width: 45%;
     }
+    .col_2_sp{
+        float: left;
+        margin: 10px;
+        background-color: blanchedalmond;
+        width: 95%;
+    }
 }
 
 @media(max-width: 767px){
@@ -63,4 +69,5 @@ div {
         background-color: blanchedalmond;
         width: 98%;
     }
+    
 }
