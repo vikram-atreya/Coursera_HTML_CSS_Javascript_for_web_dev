@@ -1,6 +1,10 @@
 
 .container{
     margin:5px auto 5px;
+   
+}
+.row{
+     border: 1px solid #159599;
 }
 .full-width-div {
     position: absolute;
@@ -51,7 +55,7 @@ body #menu{
 }
 
 #items{
-    padding: 10px;
+    padding: 0px;
     
     margin: 25px;
 }
