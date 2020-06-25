@@ -1,0 +1,67 @@
+
+.container{
+    margin:5px auto 5px;
+}
+.full-width-div {
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+
+#header-nav{
+    background-color: #50a3de;
+    padding:0px;
+}
+
+#food_llc{
+    color: #FFF;
+    font-size: xx-large;
+    border-radius: 0;
+    border: 20px;
+    margin: 10px;
+    text-align: left;
+
+}
+#nav-list {
+    margin-top: 10px;
+  }
+  #nav-list a {
+    display: block;
+    color: #FFF;
+    text-align: center;
+  }
+  #nav-list a:hover {
+    background: #E7E7E7;
+  }
+  #nav-list a span {
+    font-size: 1.8em;
+  }
+
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top:0;
+  }
+
+body #menu{
+    font-size: xx-large;
+    text-align: center;
+}
+
+#items{
+    padding: 10px;
+    
+    margin: 25px;
+}
+
+#subhead{
+    padding:0;
+    margin:0px;
+    text-align: center;
+    color: #FFF;
+    background-color: black;
+    opacity: 0.6;
+    font-size: 24px;
+}
